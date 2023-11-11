@@ -13,7 +13,7 @@ public class Clientes {
         String url = "jdbc:mariadb://localhost:3306/datoscliente";
         String user = "root";
         String pwd = "1234";
-
+//Buenas
         try {
             connection = DriverManager.getConnection(url, user, pwd);
 
